@@ -1,3 +1,3 @@
 ## Spam Mail Detection
 
-Sample Beginners Project while learning Machine Learning
+Machine Learning Beginners Project
